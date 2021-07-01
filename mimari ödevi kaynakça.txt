@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/10021039/char-array-in-mips
+
+https://learnxinyminutes.com/docs/mips/
+
+https://stackoverflow.com/questions/36296223/comparing-two-strings-in-mips
+
+https://stackoverflow.com/questions/19742822/accessing-first-character-of-an-string-and-comparing-it-with-an-char-mips
+
+https://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html
+
